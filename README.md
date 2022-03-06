@@ -1,9 +1,10 @@
-### Olá! Eu sou Thais Machado
+## 💙 Heyy there!
 
+### ✨ A little about myself
 
-- 👩‍💻 Atualmente trabalho como QA Tester
-- 🌱 Estudando Java, Javascript e Python
-- 👩 Pronomes: ela/dela
+- 👩‍💻 Currently working as QA Tester
+- 🌱 Learning: Java, Javascript and Python
+- 👩 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/thaisdmachado">

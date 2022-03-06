@@ -1,4 +1,4 @@
-### Olá! Eu sou a Thais Machado
+### Olá! Eu sou Thais Machado
 
 
 - 👩‍💻 Atualmente trabalho como QA Tester

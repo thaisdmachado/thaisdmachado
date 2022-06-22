@@ -3,7 +3,7 @@
 ### ✨ A little about myself
 
 - 👩‍💻 Currently working as QA Tester
-- 🌱 Learning: Java and Javascript
+- 🌱 Learning: Java, Javascript and React
 - 👩 Pronouns: she/her
 
 <div align="center">

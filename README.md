@@ -2,7 +2,7 @@
 
 ### ✨ A little about myself
 
-- 👩‍💻 Currently working as QA Engineer
+- 👩‍💻 Currently working as QA Analyst
 - 🌱 Learning: Java, Javascript, ReactJS and Python.
 - 👩 Pronouns: she/her
 
